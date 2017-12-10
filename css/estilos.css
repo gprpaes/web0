@@ -86,18 +86,9 @@ li:hover, a:hover{
     
 }
 
-.linha{
-    width: 100%;
-}
+.container{
 
-.col-3{
-    width: 33.3%;
-}
-
-.col-2{
-    width: 50%;
-}
-
-.col-4{
-    width: 25%;
+    width: 600px;
+    border: 1px solid #000;
+    margin: auto;
 }
